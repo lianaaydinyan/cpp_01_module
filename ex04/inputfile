@@ -1,0 +1,5 @@
+When I design classes and have aaa to choose
+between inheritance and aaa composition
+, I usually use the rule of thumb: aaa if  the relationship 
+is "is-a" - use inheritance,  aaa and if the relationship
+ is "has-a" - use aaa composition.
