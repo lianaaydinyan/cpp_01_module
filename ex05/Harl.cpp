@@ -33,6 +33,7 @@ void	Harl::warning(void)
 void	Harl::complain(std::string level)
 {
 	const int n = 4;
+	const std::string str_array[n] = {"DEBUG","INFO","WARNING","ERROR"};
 	void	(Harl::*functionArray[n])();
 	functionArray[0] = &Harl::debug;
 	functionArray[1] = &Harl::info;

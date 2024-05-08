@@ -7,8 +7,6 @@ using std::cout;
 using std::cin;
 using std::endl;
 
-const std::string str_array[4] = {"DEBUG","INFO","WARNING","ERROR"};
-
 class Harl
 {
 	private:

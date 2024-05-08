@@ -10,7 +10,6 @@ class Zombie
 {
 private:
 	std::string name_;
-
 public:
 	Zombie(std::string name) : name_(name) {}
 	Zombie*		newZombie( std::string name );

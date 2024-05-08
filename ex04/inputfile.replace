@@ -1,5 +1,0 @@
-When I design classes and have bbb to choose
-between inheritance and bbb composition
-, I usually use the rule of thumb: bbb if  the relationship 
-is "is-a" - use inheritance,  bbb and if the relationship
- is "has-a" - use bbb composition.
